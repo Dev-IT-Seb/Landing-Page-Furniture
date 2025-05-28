@@ -1,0 +1,38 @@
+/** ------- MIXINS ------- **/
+@use'../abstracts/colors' as *;
+@use'../base/typography' as *;
+
+/* Primary Button Hero Banner */
+@mixin button-primary{
+    background-color: $accent-gold;
+    font-size: $BtnPrimaryBanner;
+    font-family: $PoppinsBold;
+    height: 74px;
+    width: 222px;
+}
+
+/* Secondary Button Show More */
+@mixin button-secondary{
+    background-color: $btn-more;
+    font-size: $BtnSecondaryMore;
+    font-family: $PoppinsSemiBold;
+    border: solid 1px $accent-gold;
+
+    a{
+        color: $accent-gold;
+        text-decoration: none;
+        text-transform: capitalize;
+    }
+}
+
+/* Tertiary Button Explore More */
+@mixin button-tertiary{
+
+    a{
+        text-decoration: none;
+        font-family: $PoppinsSemiBold;
+        font-size: $BtnTertiaryExplore;
+        color: $btn-explore;
+        text-transform: capitalize;
+    }
+}

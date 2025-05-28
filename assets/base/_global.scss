@@ -1,0 +1,13 @@
+/** ------- GLOBAL ------- **/
+@use'../abstracts/mixins' as *;
+@use'../abstracts/colors' as *;
+
+body{
+    margin: 0;
+    padding: 0;
+
+    .temporaire{
+    width: 1440px;
+    margin: 0 auto;
+    }
+}
