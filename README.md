@@ -1,6 +1,6 @@
 # Furniro – Furniture & Home Decor Website
 
-🔗 [🌐 Live Demo – GitHub Pages](https://devtech-solution.github.io/Landing-Page-Furniture/)
+🔗 [🌐 Live Demo – GitHub Pages](https://dev-it-seb.github.io/Landing-Page-Furniture/)
 
 ---
 ## Screenshot
