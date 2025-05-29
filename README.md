@@ -1,14 +1,25 @@
 # Furniro – Furniture & Home Decor Website
 
-🔗 [🌐 Live Demo – GitHub Pages](https://dev-it-seb.github.io/Landing-Page-Furniture/)
-
----
 ## Screenshot
 
 <p align="center">
   <img src="./assets/images/readme/home.png" alt="Capture de la page d'accueil" title="Home page" width="800"/>
 </p>
 
+--- 
+## Live Demo
+
+🔗 [🌐 Live Demo – GitHub Pages](https://dev-it-seb.github.io/Landing-Page-Furniture/)
+
+---  
+## Maquettte Figma  
+🔗 [🌐 Maquette Figma](https://github.com/Dev-IT-Seb/Landing-Page-Furniture/blob/main/documents/maquette.jpg)
+
+---  
+## Maquette DEV  
+🔗 [🌐 Maquette Dev](https://github.com/Dev-IT-Seb/Landing-Page-Furniture/blob/main/documents/schema_html.jpg)
+
+---  
 
 ## 🇬🇧 English
 
